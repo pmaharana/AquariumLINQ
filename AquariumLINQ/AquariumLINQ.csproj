@@ -50,12 +50,40 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataContext\AquariumContext.cs" />
+    <Compile Include="Migrations\201704171808276_First.cs" />
+    <Compile Include="Migrations\201704171808276_First.Designer.cs">
+      <DependentUpon>201704171808276_First.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201704172005449_Tablesadded.cs" />
+    <Compile Include="Migrations\201704172005449_Tablesadded.Designer.cs">
+      <DependentUpon>201704172005449_Tablesadded.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\201704172021243_ForeignKeys.cs" />
+    <Compile Include="Migrations\201704172021243_ForeignKeys.Designer.cs">
+      <DependentUpon>201704172021243_ForeignKeys.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\AquariumAquaticLife.cs" />
+    <Compile Include="Models\Aquariums.cs" />
+    <Compile Include="Models\AquaticLifes.cs" />
+    <Compile Include="Models\Oceans.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201704171808276_First.resx">
+      <DependentUpon>201704171808276_First.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201704172005449_Tablesadded.resx">
+      <DependentUpon>201704172005449_Tablesadded.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\201704172021243_ForeignKeys.resx">
+      <DependentUpon>201704172021243_ForeignKeys.cs</DependentUpon>
+    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

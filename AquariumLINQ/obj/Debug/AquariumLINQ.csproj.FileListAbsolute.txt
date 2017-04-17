@@ -1,0 +1,14 @@
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\AquariumLINQ.exe.config
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\AquariumLINQ.exe
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\AquariumLINQ.pdb
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\EntityFramework.dll
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\EntityFramework.xml
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.csprojResolveAssemblyReference.cache
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.exe
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.pdb
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.Migrations.First.resources
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.csproj.GenerateResource.Cache
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.Migrations.Tablesadded.resources
+C:\Users\prana\tiy\week-6\day-1\AquariumLINQ\AquariumLINQ\obj\Debug\AquariumLINQ.Migrations.ForeignKeys.resources
